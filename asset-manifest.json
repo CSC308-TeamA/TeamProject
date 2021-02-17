@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/TeamProject/static/css/main.b59956b0.chunk.css",
+    "main.js": "/TeamProject/static/js/main.2478ad9b.chunk.js",
+    "main.js.map": "/TeamProject/static/js/main.2478ad9b.chunk.js.map",
+    "runtime-main.js": "/TeamProject/static/js/runtime-main.27993d08.js",
+    "runtime-main.js.map": "/TeamProject/static/js/runtime-main.27993d08.js.map",
+    "static/css/2.658248ec.chunk.css": "/TeamProject/static/css/2.658248ec.chunk.css",
+    "static/js/2.5fa91327.chunk.js": "/TeamProject/static/js/2.5fa91327.chunk.js",
+    "static/js/2.5fa91327.chunk.js.map": "/TeamProject/static/js/2.5fa91327.chunk.js.map",
+    "static/js/3.6f4fd98d.chunk.js": "/TeamProject/static/js/3.6f4fd98d.chunk.js",
+    "static/js/3.6f4fd98d.chunk.js.map": "/TeamProject/static/js/3.6f4fd98d.chunk.js.map",
+    "index.html": "/TeamProject/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/TeamProject/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.b59956b0.chunk.css.map": "/TeamProject/static/css/main.b59956b0.chunk.css.map",
+    "static/js/2.5fa91327.chunk.js.LICENSE.txt": "/TeamProject/static/js/2.5fa91327.chunk.js.LICENSE.txt",
+    "static/media/dog.8a22fa5c.png": "/TeamProject/static/media/dog.8a22fa5c.png",
+    "static/media/logo.10cef1a4.PNG": "/TeamProject/static/media/logo.10cef1a4.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27993d08.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.5fa91327.chunk.js",
+    "static/css/main.b59956b0.chunk.css",
+    "static/js/main.2478ad9b.chunk.js"
+  ]
+}
